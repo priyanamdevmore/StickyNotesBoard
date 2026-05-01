@@ -1,0 +1,23 @@
+{
+  "name": "stickynotesboard",
+  "version": "1.0.0",
+  "description": "In this project, users can create notes, drag and move them anywhere on the board, change note colors, and delete notes.  Building it using HTML, CSS, and basic JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanamdevmore/StickyNotesBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanamdevmore/StickyNotesBoard/issues"
+  },
+  "homepage": "https://github.com/priyanamdevmore/StickyNotesBoard#readme",
+  "dependencies": {
+    "mongoose": "^9.6.1"
+  }
+}
