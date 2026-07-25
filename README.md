@@ -17,12 +17,9 @@ StickyNotesBoard is a simple and interactive web application that allows users t
 
 ### Frontend
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
-### Backend
-- Node.js
-- Express.js
 
 ## 📂 Project Structure
 
