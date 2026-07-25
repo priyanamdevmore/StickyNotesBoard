@@ -11,7 +11,7 @@ StickyNotesBoard is a simple and interactive web application that allows users t
 - 🗑️ Delete notes
 - 💾 Autosave functionality
 - 📱 Responsive user interface
-- ⚡ Backend integration using Node.js and Express
+
 
 ## 🛠️ Tech Stack
 
