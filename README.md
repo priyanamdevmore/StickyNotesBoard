@@ -4,7 +4,7 @@ In this project, users can create notes, drag and move them anywhere on the boar
 
 StickyNotesBoard is a simple and interactive web application that allows users to create, edit, and manage sticky notes. It provides an intuitive interface for organizing ideas, reminders, and daily tasks.
 
-#🚀 Features
+# Features
 
 - ➕ Create new sticky notes
 - ✏️ Edit existing notes
@@ -74,7 +74,7 @@ http://localhost:3000
 
 (Update the port if your application uses a different one.)
 
-## 📸 Features Overview
+##  Features Overview
 
 - Create notes instantly
 - Update notes anytime
@@ -82,7 +82,7 @@ http://localhost:3000
 - Autosave changes
 - Simple and clean interface
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - User authentication
 - Categories and labels
